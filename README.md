@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/7eige5f5bgiov629?svg=true)](https://ci.appveyor.com/project/OksanaBannova/credit-card-validator)
 
+![CI](https://github.com/<OksanaBannova>/https://github.com/OksanaBannova/Credit-Card-Validator>/actions/workflows/web.yml/badge.svg)
+
 
 # Домашнее задание к занятию "4.Организация тестирования"
 
